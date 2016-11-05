@@ -1,0 +1,10 @@
+<div class="photo-gallery">
+{% for image in page.images %}
+    <div class="photo-gallery-item">
+      <a target="_blank" href="{{ image.image_path }}">
+        <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
+      </a>
+    </div>
+{% endfor %}
+</div>
+

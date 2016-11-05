@@ -1,0 +1,15 @@
+div.photo-gallery-item {
+    margin: $spacing-unit / 6;
+    border: 1px solid #ccc;
+    float: left;
+    width: 30%;
+}
+
+div.photo-gallery-item:hover {
+    border: 1px solid #777;
+}
+
+div.photo-gallery-item img {
+    width: 100%;
+    height: auto;
+}
