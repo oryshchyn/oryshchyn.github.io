@@ -28,7 +28,7 @@ images:
 
 Для запуску програм на ОС Windows підготована інструкція [(PDF)](/docs/lab_exp-dosbox-win7-manual.pdf).
 
-## Знімки екрану
+## Знімки екрана
 
 {% include lab_exp-gallery.html %}
 
