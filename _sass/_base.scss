@@ -83,6 +83,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
+    font-family: $heading-font-family;
 }
 
 
@@ -204,3 +205,6 @@ pre {
         }
     }
 }
+
+@import url(//db.onlinewebfonts.com/c/d8b6b1906d29f5840018192190efbf7c?family=Literaturnaya);
+@import url(//db.onlinewebfonts.com/c/6e7d3f03a850973ffaebcac38747a918?family=Literaturnaya+Web);

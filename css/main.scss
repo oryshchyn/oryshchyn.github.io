@@ -6,17 +6,18 @@
 
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Literaturnaya", Times, "Nimbus Roman", serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
+$heading-font-family: "Literaturnaya Web", Times, "Nimbus Roman", serif;
 
 $spacing-unit:     30px;
 
 $text-color:       #113;
-$background-color: #f0f0ff;
-$brand-color:      #2a7ae2;
+$background-color: #fffff0;
+$brand-color:      #372be3;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
